@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #EDD263;
+}
+.nav-link{
+    color: #070707;
+    font-size: 20px;
+    font-weight:600;
+    margin: 10px;
+    
+}
+
+.navbar-brand{
+    color: #3B2D64;
+    font-size: 40px;
+    font-weight: 800;
+}
+.search-bar{
+    border-radius: 5px;
+}
+.search-btn{
+    color: white;
+    background-color: #3B2D64;
+    border-radius: 5px;
+
+}
